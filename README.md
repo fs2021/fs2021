@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @fs2021
-- 👀 I’m interested in python and javascript for web application. Also in Android apps.
-- 🌱 I’m currently learning React and Node
-- 💞️ I’m looking to collaborate on any projects for newbies
+- 👀 
+
 - 📫 How to reach me qarpa.art@gmail.com
 
 <!---
